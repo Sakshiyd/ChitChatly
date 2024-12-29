@@ -5,5 +5,4 @@ import "core-js/stable/structured-clone";
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  
 });
